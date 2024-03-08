@@ -1,5 +1,6 @@
 export { default as Benefits } from "./Benefits";
 export { default as Button } from "./Button";
+export { default as Collaboration } from "./Collaboration";
 export { default as CompanyLogos } from "./CompanyLogos";
 export { default as Generating } from "./Generating";
 export { default as Header } from "./Header";
