@@ -8,3 +8,4 @@ export { default as Heading } from "./Heading";
 export { default as Hero } from "./Hero";
 export { default as Notification } from "./Notification";
 export { default as Section } from "./Section";
+export { default as Services } from "./Services";
