@@ -2,9 +2,11 @@ import ButtonGradient from "./assets/svg/ButtonGradient";
 import {
   Benefits,
   Collaboration,
+  Footer,
   Header,
   Hero,
   Pricing,
+  Roadmap,
   Services,
 } from "./components";
 
@@ -18,6 +20,8 @@ function App() {
         <Collaboration />
         <Services />
         <Pricing />
+        <Roadmap />
+        <Footer />
       </div>
 
       <ButtonGradient />
